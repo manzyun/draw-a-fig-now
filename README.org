@@ -1,0 +1,36 @@
+* draw-a-fig-now
+Launch of figure drawer on the text editor.
+
+** "What's this?"
+
+It's extension(alt; addon, plug-in, module and package) for [[https://atom.io/][Atom]], [[https://code.visualstudio.com/][VSCode] and [[https://www.gnu.org/software/emacs/][Emacs]].
+/Sorry Vim users. Waiting for comming...or you make that!/
+
+
+** "But, Why?"
+
+You have want draw and insert for mark up documents in writing it, haven't you? /I had want many times!!/
+
+This extension is solve such a kidding issue:
+
+1. You wrote source less mark up syntax.
+2. This extension asking: ~Figure source is not found. Draw it now ? [Y/n]~
+3. If you input ~y~ then, Launch your useful drawing application !
+  - [ ] Want you not "[[https://krita.org][Krita]]", "[http://mypaint.org/][MyPaint]", "[https://maoschanz.github.io/drawing/][Drawing]" or "Microsoft Paint" ?
+    - Choose you want drawing application or type the launch command of application.
+
+
+** Just my humble tinkering policy
+
+This policies apply for just me;
+
+*** Rustic implementation, rustic code
+I try to use only the extended language of the application as much as possible；
+
+- [ ] Atom :: [[http://coffeescript.org/][CoffeeScript]]
+- [ ] VSCode :: [[https://www.typescriptlang.org/][TypeScript]]
+- [ ] Emacs :: Of course, [[https://www.gnu.org/software/emacs/manual/elisp.html][Emacs Lisp]] one, right?
+- [ ] Vim :: Of course [[https://www.vim.org/scripts/index.php][Vim Script]].
+
+*** "But, Why?"
+It's a hobby project and the demand will be very low, so I want to do it for my own taste.
